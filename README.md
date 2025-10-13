@@ -30,7 +30,7 @@ I’m passionate about creating solutions that make an impact — blending code,
 Currently exploring backend and blockchain fundamentals while growing in software development.  
 
 📫 **Let’s Connect:**  
-- [LinkedIn](www.linkedin.com/in/catherine-luchiri-3a6839277)  
+- [LinkedIn](https://www.linkedin.com/in/catherine-luchiri-3a6839277/)  
 - [Portfolio](https://catherine-luchiri.netlify.app/)  
 
 ---
