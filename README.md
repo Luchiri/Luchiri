@@ -7,7 +7,7 @@
 ---
 
 ### 🧠 **Tech Stack**
-- **Frontend:** React, JavaScript, HTML, CSS  
+- **Frontend:** React, JavaScript, TypeScript, HTML, CSS  
 - **Backend (Learning):** Node.js, MongoDB  
 - **Data Tools:** Python, Excel  
 - **Other:** Git, GitHub, Responsive Design, Flutter (Learning)
